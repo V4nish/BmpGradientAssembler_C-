@@ -1,1 +1,1 @@
-# BmpGradientAssembler_C-
+# BmpGradientAssemblerAndC++
