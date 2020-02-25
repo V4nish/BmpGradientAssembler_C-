@@ -1,0 +1,12 @@
+﻿  pch.cpp
+d:\forum aei kopia\update2018+\sem5\ja_projekt\japroject\japroject\bmptransformer.h(6): warning C4099: 'BMPReader': type name first seen using 'class' now seen using 'struct'
+  d:\forum aei kopia\update2018+\sem5\ja_projekt\japroject\japroject\bmpreader.h(49): note: see declaration of 'BMPReader'
+  BMPReader.cpp
+d:\forum aei kopia\update2018+\sem5\ja_projekt\japroject\japroject\bmpreader.cpp(29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  BMPTransformer.cpp
+d:\forum aei kopia\update2018+\sem5\ja_projekt\japroject\japroject\bmptransformer.cpp(57): warning C4018: '>': signed/unsigned mismatch
+  ParamReader.cpp
+  Source.cpp
+  Utility.cpp
+  Generating Code...
+  JAProject.vcxproj -> D:\Forum aei kopia\Update2018+\SEM5\JA_Projekt\JAProject\x64\Debug\JAProject.exe
